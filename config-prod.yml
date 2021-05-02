@@ -1,1 +1,3 @@
-
+config:
+  info: main branch,springcloud-config/config-pord.yml
+  vsersion: 1
