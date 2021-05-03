@@ -1,4 +1,4 @@
 config:
   info: main branch,springcloud-config/config-dev.yml
-  version: 5
+  version: 6
   
